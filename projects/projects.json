@@ -3580,7 +3580,23 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "daltonmaag.com",
+      "thumb": "daltonmaag.com/thumb.png",
+      "desc": "Company website for Dalton Maag, a type design studio, including a custom eCommerce system built in Angular.",
+      "url": "https://www.daltonmaag.com",
+      "submitter": "desbo",
+      "submissionDate": "2014-09-15",
+      "tags": [
+        "Production", 
+        "shop", 
+        "ecommerce", 
+        "design", 
+        "fonts", 
+        "Animations", 
+        "Local Storage"
+      ]
     }
-
   ]
 }
